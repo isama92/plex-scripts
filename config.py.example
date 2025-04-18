@@ -1,0 +1,4 @@
+PLEX_URL = ''
+PLEX_TOKEN = ''
+LIBRARY = 'Videos'
+
